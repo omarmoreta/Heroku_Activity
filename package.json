@@ -1,0 +1,24 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "engine": {
+    "node": "16.13.1"
+  },
+  "description": "Class activity to help with deployment on heroku.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarmoreta/Heroku_Activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarmoreta/Heroku_Activity/issues"
+  },
+  "homepage": "https://github.com/omarmoreta/Heroku_Activity#readme"
+}
